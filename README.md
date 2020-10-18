@@ -4,7 +4,7 @@
 ## Roadmap Server
 - [x] Base folder and database structure.
 - [x] Character Creator. [Screenshot](https://cdn.discordapp.com/attachments/766043228310077500/766429295027290182/unknown.png)
-- [ ] Multiple Characters :D.
+- [x] Multiple Characters :D. [Screenshot/Preview](https://gfycat.com/courteousimperfectindiancow)
 - [x] Whitelist system using Discord roles.
 - [ ] Backup whitelist system in case discord has issues.
 - [ ] City Registration
