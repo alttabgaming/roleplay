@@ -7,7 +7,8 @@
 - [x] Multiple Characters :D. [Screenshot/Preview](https://gfycat.com/courteousimperfectindiancow)
 - [x] Whitelist system using Discord roles.
 - [ ] Backup whitelist system in case discord has issues.
-- [ ] City Registration
+- [x] Interaction & Blip Manager
+- [ ] City Registration.
 - [ ] Clothes + Clothes shop.
 - [ ] Items + Items shop.
 - [ ] Inventory system.
