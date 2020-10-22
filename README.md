@@ -8,7 +8,7 @@
 - [x] Whitelist system using Discord roles.
 - [ ] Backup whitelist system in case discord has issues.
 - [x] Interaction & Blip Manager
-- [ ] City Registration.
+- [x] City Registration.
 - [ ] Clothes + Clothes shop.
 - [ ] Items + Items shop.
 - [ ] Inventory system.
