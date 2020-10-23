@@ -6,11 +6,6 @@ labels: idea
 assignees: ''
 
 ---
-
-**Is your feature request related to a problem? Please describe.**
-
-
-
 **Describe your idea**
 
 
@@ -20,3 +15,5 @@ assignees: ''
 
 
 **Additional context**
+
+
