@@ -6,7 +6,7 @@
 - [x] Character Creator. [Screenshot](https://cdn.discordapp.com/attachments/766043228310077500/766429295027290182/unknown.png)
 - [x] Multiple Characters :D. [Screenshot/Preview](https://gfycat.com/courteousimperfectindiancow)
 - [x] Whitelist system using Discord roles.
-- [ ] Backup whitelist system in case discord has issues.
+- [ ] ~Backup whitelist system in case discord has issues.~ actually not needed
 - [x] Interaction & Blip Manager.
 - [x] City Registration. [Screenshot](https://cdn.discordapp.com/attachments/766043228310077500/769162482215551006/Capture.PNG)
 - [ ] Clothes + Clothes shop.
